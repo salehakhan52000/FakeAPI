@@ -1,0 +1,53 @@
+{
+    "applicants": {
+        "totalApplications": 1,
+	"currentPage": 1,
+	"totalPages": 1,
+	"applicantsPerPage": 10,
+	"applicants": [
+		{
+			"PK": "APPLICANT",
+			"SK": "APPLICANT#anouarbelilawoo@outlook.com",
+			"Name": "Anouar Belila",
+			"Email": "anouarbelilawoo@outlook.com",
+			"Phone": "+3584578718382",
+			"SubmissionDate": "Tue Aug 17 2021 13:29:24 GMT+0300 (Eastern European Summer Time)",
+			"CountryOfResidence": "Lebanon",
+			"Nationality": "Lebanese",
+			"IpCountry": "37.209.248.2",
+			"Course": "Virtual Internship",
+			"Status": "pending",
+			"DOB": "03-08-1999"
+		},
+		{
+			"PK": "APPLICANT",
+			"SK": "APPLICANT#abdullah.faraj@live.com",
+			"Name": "Abdallah Faraj",
+			"Email": "abdullah.faraj@live.com",
+			"Phone": "+3693578718381",
+			"SubmissionDate": "Tue Aug 17 2021 13:29:24 GMT+0300 (Eastern European Summer Time)",
+			"CountryOfResidence": "Lebanon",
+			"Nationality": "Lebanese",
+			"IpCountry": "37.209.248.2",
+			"Course": "Virtual Internship",
+			"Status": "accepted",
+			"DOB": "28-08-1995"
+		},
+		{
+			"PK": "APPLICANT",
+			"SK": "APPLICANT#fatimanasser1999@live.com",
+			"Name": "Fatima Nasser",
+			"Email": "fatimanasser1999@live.com",
+			"Phone": "+3693578719681",
+			"SubmissionDate": "Tue Aug 17 2021 13:29:24 GMT+0300 (Eastern European Summer Time)",
+			"CountryOfResidence": "Lebanon",
+			"Nationality": "Lebanese",
+			"IpCountry": "37.209.248.2",
+			"Course": "Virtual Internship",
+			"Status": "accepted",
+			"DOB": "23-08-1999"
+		}
+	]
+}
+}
+	
